@@ -27,8 +27,3 @@ remove-gd-addon SpritePlacement
 ```bash
 push-all-addons
 ```
-
-## Used By
-1 other ChillCube addon(s) depend on this:
-
-- [InventoryFrame2D](https://github.com/ChillCube/InventoryFrame2D)
